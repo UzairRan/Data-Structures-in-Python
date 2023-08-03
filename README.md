@@ -1,2 +1,2 @@
 # Data-Structures-in-Python
-In tjis repository you will find code about python data structures and coding practice of these in easy way so all concepts use in data science cover in this topic.
+In this repository, you will find code about Python data structures and coding practices of these in an easy way so all concepts used in data science are covered in this topic.
