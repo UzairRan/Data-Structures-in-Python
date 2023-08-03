@@ -1,5 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
+
 
 # ***1- Calculations Basic python operators***
 
@@ -11,7 +10,7 @@
 15 + 30 * 5
 
 
-# the numbers 30 and 20 are 
+# The numbers 30 and 20 are 
 # multiplied first, and the number 5 is added to their product.
 
 # ***Using Parentheses()***
@@ -36,13 +35,13 @@
 
 
 # In this case, Python evaluates the innermost parentheses first, then the 
-# outer ones, and then the final division operato
+# outer ones, and then the final division operator
 
 # ***2- Variables***
 
 # Variable in programming means a place to store information such as numbers, text, list of numbers 
 # and text etc.
-# Its like variable is a label for something
+# It's like a variable is a label for something
 
 # In[7]:
 
@@ -66,9 +65,9 @@ Uzair_rupees + fahad_rupees + ahmad_rupees
 # ***3-Strings in Python***
 # 
 
-# We create a string by putting quotes around text because programming 
+# We create a string by putting quotes around text because of programming 
 # languages.
-# We need to tell a computer whether a value is a number, a string or 
+# We need to tell a computer whether a value is a number, a string, or 
 # something else.
 
 # In[9]:
@@ -78,7 +77,7 @@ Uzair = "pharmacist"
 print(Uzair)
 
 
-# But you cannot start with single quote and end with double quote. it should be consistent
+# But you cannot start with a single quote and end with a double quote. it should be consistent
 
 # In[13]:
 
@@ -109,7 +108,7 @@ print(string)
 # In[15]:
 
 
-string1 = '''He said, "Aren't can't shouldn't wouldn't."'''
+string1 = ''' He said, "Aren't can't shouldn't wouldn't."'''
 print(string1)
 
 
