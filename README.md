@@ -1,2 +1,2 @@
 # Data-Structures-in-Python
-In this repository, you will find code about Python data structures and coding practices of these in an easy way so all concepts used in data science are covered in this topic.
+"Mastering Data Structures in Python: Dive into the world of data structures with comprehensive theory and hands-on coding examples. Explore lists, tuples, dictionaries, sets, and more. Elevate your Python skills and build a strong foundation for efficient data manipulation and algorithmic problem-solving. also find codings on the build modules, Errors and exception handling, conditional statements and Python objects and data structures
